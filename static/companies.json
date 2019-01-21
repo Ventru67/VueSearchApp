@@ -1,0 +1,17 @@
+[  
+   {  
+      "id":1,
+      "name":"Yandex",
+      "createdAt":"2018-12-18T15:03:19.000Z"
+   },
+   {  
+      "id":2,
+      "name":"Facebook",
+      "createdAt":"2018-12-18T15:03:19.000Z"
+   },
+   {  
+      "id":3,
+      "name":"Google",
+      "createdAt":"2018-12-18T15:03:19.000Z"
+   }
+]
